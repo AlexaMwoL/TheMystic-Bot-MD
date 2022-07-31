@@ -5,7 +5,7 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['919633687665', '🎈K R I S H N A D A S🎈', true],
   ['34642467703', '👑 Mystic - Collaborator 1 👑', true],
   ['50499698072', '👑 Mystic - Collaborator 2 👑', true],
   ['51940617554', '👑 Mystic - Collaborator 3 👑', true],
@@ -70,11 +70,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.packname = '🎈ᴛᴏxɪᴄ🎈'
+global.author = '★🎈ᴋ ʀ ɪ ᴢ ꜱ ᴇ ʀ🎈★'
 
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.wm = '🎈★ᴋ ʀ ɪ ᴢ ꜱ ᴇ ʀ🎈★'
+global.igfg = '★🎈ᴋ ʀ ɪ ᴢ ꜱ ᴇ ʀ 🎈★'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
